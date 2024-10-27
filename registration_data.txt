@@ -1,0 +1,8 @@
+Patient ID: 7, Date: 2022-01-01, Diagnosis: panadol, Treatment: coughing
+Patient ID: 7, Date: 2022-01-01, Diagnosis: panadol, Treatment: coughing
+Patient ID: 1, Date: 2023-12-12, Diagnosis: panadol, Treatment: headache
+Patient ID: 9, Date: 2023-12-03, Diagnosis: panadol, Treatment: headache
+Patient ID: 12, Date: 2023-12-03, Diagnosis: panadol, Treatment: asthama
+Patient ID: 4, Date: 2023-12-03, Diagnosis: dua, Treatment: cancer
+Patient ID: 15, Date: 2023-12-12, Diagnosis: panadol, Treatment: headache
+Patient ID: 16, Date: 2023-12-12, Diagnosis: vitamin D, Treatment: hair fall
